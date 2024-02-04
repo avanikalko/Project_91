@@ -1,0 +1,38 @@
+body {
+    background: url("https://img.freepik.com/free-vector/purple-abstract-background_1340-17009.jpg");
+    background-size: cover;
+    
+}
+
+#div1 {
+    background: linear-gradient(rgb(66, 66, 255), rgb(186, 58, 255), rgb(255, 131, 253));
+    height: 500px;
+    width: 550px;
+    margin-top: 135px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+#hd1 {
+    font-size: 55px;
+    font-family: 'Honk', system-ui;
+    opacity: 1;
+}
+
+#label {
+    font-family: 'Coming Soon', cursive;
+    color: black;
+}
+
+#user_name{
+    width: 373px;
+    margin-left: 86px;
+}
+
+#new{
+    margin-top: 180px;    
+}
